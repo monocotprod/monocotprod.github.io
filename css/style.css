@@ -144,7 +144,7 @@ a:hover, a:active, a:focus {
 
 #about{
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 0px;
   position: relative;
 }
 
@@ -160,7 +160,7 @@ a:hover, a:active, a:focus {
 
 .overlay {
   background: #304352;
-  opacity: 0.9;
+  opacity: 0.1;
   position: absolute;
   width: 100%;
   height: 100vh;
@@ -390,10 +390,10 @@ a:hover, a:active, a:focus {
 }
 
 #about .about-img img {
-  border: 8px solid #ffffff;
+  
   position: absolute;
   left: -120px;
-  bottom: -325px;
+  bottom: -420px;
   padding: 12px;
 }
 
@@ -502,7 +502,7 @@ a:hover, a:active, a:focus {
 
 
 #contact, footer {
-  background: #742b19;
+  background: #F0F0F0;
   color: #ffffff;
 }
 
