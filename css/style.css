@@ -57,7 +57,7 @@ h3 {
 }
 
 p {
-  color: #888;
+  color: #742b19;
   font-size: 20px;
   letter-spacing: 1px;
   line-height: 34px;
@@ -65,7 +65,7 @@ p {
 
 #home p,
 #contact p, footer p {
-  color: #f9f9f9;
+  color: #742b19;
 }
 
 .btn {
@@ -92,7 +92,7 @@ p {
 }
 
 a {
-  color: #ffffff;
+  color: #742b19;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -160,7 +160,7 @@ a:hover, a:active, a:focus {
 
 .overlay {
   background: #304352;
-  opacity: 0.1;
+  opacity: 0;
   position: absolute;
   width: 100%;
   height: 100vh;
@@ -502,7 +502,7 @@ a:hover, a:active, a:focus {
 
 
 #contact, footer {
-  background: #F0F0F0;
+  background: #F0F0F0 !important;
   color: #ffffff;
 }
 
@@ -535,7 +535,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact input[type="submit"]:hover {
-  background: #222;
+  background: #742b19;
   color: #ffffff;
 }
 
@@ -567,8 +567,8 @@ footer {
 
 .social-icon li a {
   border-radius: 4px;
-  border: 1px solid #ffffff;
-  color: #ffffff;
+  border: 1px solid #742b19;
+  color: #742b19;
   font-size: 20px;
   width: 45px;
   height: 45px;
